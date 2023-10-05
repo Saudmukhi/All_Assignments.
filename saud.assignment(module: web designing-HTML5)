@@ -1,0 +1,5 @@
+1-In HTML5 the new tags are: <header>,<footer>,<main>,<nav>,<section>,<figure>,<article>,<aside>,<time>,<mark>,<meter>,<progress>,<wbr>,<datalist>,<ruby>,<summary>,<details>.
+
+2-We can embed audio and video by <audio>,<video>. For embeding audio in webpage there is 'controls' attribute to control audio. For video there is also 'controls' attribute, we can also set video's width and height.
+
+3-Semantic elements in HTML5: <header>,<footer>,<main>,<nav>,<section>,<figure>,<article>,<aside>,<time>,<mark>,<meter>,<progress>,<wbr>,<datalist>,<ruby>,<summary>,<details>.
